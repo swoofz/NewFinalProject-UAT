@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1513265391138250}
+  m_IsPrefabAsset: 1
+--- !u!1 &1513265391138250
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4236686147081802}
+  - component: {fileID: 114213935162745474}
+  - component: {fileID: 114059619807423870}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4236686147081802
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1513265391138250}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114059619807423870
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1513265391138250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d18f665ab952bd46bacbf771097a14f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Characters:
+  - {fileID: 1670077481619178, guid: ef4f1a3d99f82c34a9d9e28fa72b8b22, type: 2}
+  - {fileID: 1382358455424678, guid: 5f779d505585a6e4d9dbd4654adf4164, type: 2}
+  - {fileID: 1067810372177986, guid: 7b11e8174d4c21b46a5ecc4e40ff1bed, type: 2}
+  - {fileID: 1438610347411058, guid: 235ea52a3e65a4543add01351e423f0b, type: 2}
+--- !u!114 &114213935162745474
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1513265391138250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 166fbf8e6411e7147950b1d1861b9964, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerLives: 1
+  AILives: 1
+  winScreen: Win
+  loseScreen: Lose
+  startLocation: []
+  playerDamageTaken: 0
+  AIDamageTaken: 0
