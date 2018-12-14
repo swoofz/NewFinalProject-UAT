@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-E:/Users/Administrator/Documents/UAT/Unity Projects/GPE104/week5/Final Project/Final Project/Build/Final Project.exe
+E:/Users/Administrator/Documents/UAT/Unity Projects/GPE104/week5/NewFinalProjectBuild/Final Project.exe
 SceneListBegin?
 Assets/Scenes/Menus/Start.unity
 Assets/Scenes/Menus/PickCharacter.unity

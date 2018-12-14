@@ -76,16 +76,16 @@
     <Compile Include="Assets\Scripts\Pawns\Robot.cs" />
     <None Include="Assets\Art\gameart2d.com\Knight\README.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>E:/Users/Administrator/Documents/UAT/Unity Projects/GPE104/week5/Final Project/Final Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>E:/Users/Administrator/Documents/UAT/Unity Projects/GPE104/week5/NewFinalProject/Final Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Users/Administrator/Documents/UAT/Unity Projects/GPE104/week5/Final Project/Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/Users/Administrator/Documents/UAT/Unity Projects/GPE104/week5/NewFinalProject/Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/Users/Administrator/Documents/UAT/Unity Projects/GPE104/week5/Final Project/Final Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>E:/Users/Administrator/Documents/UAT/Unity Projects/GPE104/week5/NewFinalProject/Final Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Users/Administrator/Documents/UAT/Unity Projects/GPE104/week5/Final Project/Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/Users/Administrator/Documents/UAT/Unity Projects/GPE104/week5/NewFinalProject/Final Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/Users/Administrator/Documents/Unity Install/2018.2.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
